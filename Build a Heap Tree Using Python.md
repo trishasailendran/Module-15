@@ -1,4 +1,4 @@
-# Ex. No: 15c - Build a Heap Tree Using Python
+# Ex. No: 15d - Build a Heap Tree Using Python
 
 ## AIM:
 To write a Python program to build a heap tree using appropriate Python package and function.
